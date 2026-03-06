@@ -8,14 +8,12 @@ export const PRODUCTS = [
         name: 'Hot 60 Pro',
         brand: 'Infinix',
         price: 45999,
-        image: '/public/images/infinixhot60pro.png',
+        image: 'https://images.priceoye.pk/infinix-pakistan-priceoye-z5ua3-500x500.webp',
         description: 'The Infinix Hot 60 Pro is designed for power users who demand high performance and stunning visuals.',
         stockStatus: 'In Stock',
         specs: { ram: '8GB', storage: '256GB', camera: '108MP Main', battery: '5000mAh', processor: 'Helio G99', display: '6.78" AMOLED' },
         variants: [
-            { color: 'Golden', image: '/public/images/infinixhot60pro.png' },
-            { color: 'Black', image: '/public/images/infinixhot60pro2.png' },
-            { color: 'Golden', image: '/public/images/infinixhot60pro1.png' },
+            { color: 'Golden', image: 'https://images.priceoye.pk/infinix-pakistan-priceoye-z5ua3-500x500.webp' },        
         ]
     },
     {
@@ -23,14 +21,13 @@ export const PRODUCTS = [
         name: 'iPhone 15 Pro',
         brand: 'Apple',
         price: 345000,
-        image: '/public/images/iPhone-15-Pro.png',
+        image: 'https://images.priceoye.pk/apple-iphone-15-pro-pakistan-priceoye-x8agp-500x500.webp',
         description: 'Titanium design, A17 Pro chip, and the most powerful iPhone camera system ever.',
         stockStatus: 'In Stock',
         specs: { ram: '8GB', storage: '256GB', camera: '48MP Main', battery: '3274mAh', processor: 'A17 Pro', display: '6.1" Super Retina' },
         variants: [
             { color: 'Natural Titanium', image: '/public/images/iPhone-15-Pro.png' },
-            { color: 'Blue Titanium', image: 'https://images.unsplash.com/photo-1697284958332-93444aeb4efb?q=80&w=1160&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
-            { color: 'White Titanium', image: 'https://images.unsplash.com/photo-1703133431079-8477009d42b2?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' }
+            { color: 'Blue Titanium', image: 'https://images.priceoye.pk/apple-iphone-15-pro-pakistan-priceoye-x8agp-500x500.webp' },
         ]
     },
     {
