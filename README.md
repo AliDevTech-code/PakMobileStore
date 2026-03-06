@@ -1,20 +1,53 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📱 PakMobile Store — Latest Mobile Phones in Pakistan
 
-# Run and deploy your AI Studio app
+> A modern, fast, and fully responsive mobile phone store with WhatsApp-based ordering system.
 
-This contains everything you need to run your app locally.
+🔗 **Live Site:** [pak-mobile-store-two.vercel.app](https://pak-mobile-store-two.vercel.app)
 
-View your app in AI Studio: https://ai.studio/apps/e765f9d1-a86d-4552-b1bb-e98b402c0f7c
+---
 
-## Run Locally
+## ✨ Features
 
-**Prerequisites:**  Node.js
+- 🛒 **WhatsApp Cart System** — Add products to cart & order directly via WhatsApp
+- 🔍 **Real-time Search** — Search mobiles by name instantly
+- 🏷️ **Brand Filters** — Filter by Infinix, Samsung, Xiaomi, Vivo, Oppo & more
+- 🖼️ **Auto Banner Slider** — Promotional banners with smooth transitions
+- 📦 **Product Detail Modal** — Full product view without page reload
+- ⭐ **Testimonials Marquee** — Infinite scrolling customer reviews
+- 📱 **Mobile Drawer Menu** — Smooth slide-in navigation
+- 💳 **Multiple Payments** — COD, Bank Transfer, Visa/Master
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🛒 How Ordering Works
+
+1. Customer browses products
+2. Clicks **Add to Cart**
+3. Opens cart drawer & reviews items
+4. Clicks **Order via WhatsApp**
+5. Pre-filled WhatsApp message sent to store owner ✅
+
+---
+
+## 📬 Order a Similar Website
+
+Want a website like this for your business?
+
+| Channel | Link |
+|---------|------|
+| 🌐 Portfolio | [mr-ali-web-developer.vercel.app](https://mr-ali-web-developer.vercel.app) |
+| 💬 WhatsApp | [+92 306 315 9899](https://wa.me/923063159899) |
+| 🐙 GitHub | [AliDevTech-code](https://github.com/AliDevTech-code) |
+
+---
+
+> **⭐ If you like this project, please give it a star!**
