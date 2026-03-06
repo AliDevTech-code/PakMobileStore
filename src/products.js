@@ -26,7 +26,6 @@ export const PRODUCTS = [
         stockStatus: 'In Stock',
         specs: { ram: '8GB', storage: '256GB', camera: '48MP Main', battery: '3274mAh', processor: 'A17 Pro', display: '6.1" Super Retina' },
         variants: [
-            { color: 'Natural Titanium', image: '/public/images/iPhone-15-Pro.png' },
             { color: 'Blue Titanium', image: 'https://images.priceoye.pk/apple-iphone-15-pro-pakistan-priceoye-x8agp-500x500.webp' },
         ]
     },
